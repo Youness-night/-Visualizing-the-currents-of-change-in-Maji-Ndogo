@@ -2,7 +2,7 @@
 
 ## Video Demonstration
 
-[![Video Demonstration](https://github.com/Youness-night/-Visualizing-the-currents-of-change-in-Maji-Ndogo/blob/main/Maji%20Ndogo%20summary%20report.jpg?raw=true)](https://www.loom.com/embed/7cc5e005131e484c9c458f36cf849c16?sid=48dff065-c89c-4de9-9487-21027ecd2c36) 
+[![Video Demonstration](https://i.imgur.com/GF7YA39.jpeg)](https://www.loom.com/embed/7cc5e005131e484c9c458f36cf849c16?sid=48dff065-c89c-4de9-9487-21027ecd2c36) 
 
 ## Project Overview
 This project was a comprehensive exploration of data analytics and visualization techniques to address the water crisis in Maji Ndogo (An imaginary African country). Utilizing Power BI, we developed interactive dashboards, performed data cleaning, and applied DAX for data aggregation, thereby enhancing our skills in data visualization and analysis. This experience equipped us with the ability to communicate complex data insights effectively to stakeholders.
